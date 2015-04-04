@@ -1,6 +1,6 @@
 # Archaeology @ GitHub
 
-This is a directory of GitHub projects by OR for archaeologists. Submit pull requests to add new projects.
+This is a directory of GitHub projects by OR for archaeologists. Submit pull requests to add new projects. Of course, you can also submit links to git repos elsewhere, or to Mercurial repos, etc.
 
 ## Stuff seen at #caasiena
 
