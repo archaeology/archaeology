@@ -16,3 +16,5 @@ This is a directory of GitHub projects by OR for archaeologists. Submit pull req
 ## Stuff seen elsewhere
 
 - [CRAN Task View for Archaeological Science](https://github.com/benmarwick/ctv-archaeology): An annotated list of packages for the R programming language that are useful for archaeology
+- [zooaRch](https://github.com/cran/zooaRch): the CRAN zooaRch package, Analytical Tools for Zooarchaeological Data
+- [tipom](https://bitbucket.org/iosa/tipom): R package for typometry
