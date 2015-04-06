@@ -12,3 +12,7 @@ This is a directory of GitHub projects by OR for archaeologists. Submit pull req
 - [ArcheOS](https://github.com/archeos/ArcheOS)
 - [pyArchInit](https://github.com/pyarchinit/pyarchinit_beta_test_dev)
 - [ArcheoPY](https://github.com/ArchaeoPY/ArchaeoPY)
+
+## Stuff seen elsewhere
+
+- [CRAN Task View for Archaeological Science](https://github.com/benmarwick/ctv-archaeology): An annotated list of packages for the R programming language that are useful for archaeology
