@@ -2,6 +2,8 @@
 
 This is a directory of GitHub projects by OR for archaeologists. Submit pull requests to add new projects. Of course, you can also submit links to git repos elsewhere, or to Mercurial repos, etc.
 
+The focus of this directory is not on the software _per se_, but rather on the fact that git is used to develop and share source code, literate programming resources, archaeological data, etc. 
+
 ## Stuff seen at #caasiena
 
 (not necessarily presented at)
