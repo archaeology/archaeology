@@ -13,7 +13,8 @@ The focus of this directory is not on the software _per se_, but rather on the f
 - [ArkeoGIS](https://github.com/croll/ArkeoGIS)
 - [ArcheOS](https://github.com/archeos/ArcheOS)
 - [pyArchInit](https://github.com/pyarchinit/pyarchinit_beta_test_dev)
-- [ArcheoPY](https://github.com/ArchaeoPY/ArchaeoPY)
+- [ArcheoPY](https://github.com/ArchaeoPY/ArchaeoPY) Reading, writing, processing and visualising archaeological geospatial data
+- [Arches](https://bitbucket.org/arches/arches) geospatial information system for cultural heritage inventory and management
 
 ## Stuff seen elsewhere
 
