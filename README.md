@@ -21,3 +21,4 @@ The focus of this directory is not on the software _per se_, but rather on the f
 - [CRAN Task View for Archaeological Science](https://github.com/benmarwick/ctv-archaeology): An annotated list of packages for the R programming language that are useful for archaeology
 - [zooaRch](https://github.com/cran/zooaRch): the CRAN zooaRch package, Analytical Tools for Zooarchaeological Data
 - [tipom](https://bitbucket.org/iosa/tipom): R package for typometry
+- [Archie](https://github.com/archiedb/archie) An open source digitial inventory system designed for field and lab use by archelogists. 
