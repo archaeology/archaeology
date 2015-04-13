@@ -15,6 +15,7 @@ The focus of this directory is not on the software _per se_, but rather on the f
 - [pyArchInit](https://github.com/pyarchinit/pyarchinit_beta_test_dev)
 - [ArcheoPY](https://github.com/ArchaeoPY/ArchaeoPY) Reading, writing, processing and visualising archaeological geospatial data
 - [Arches](https://bitbucket.org/arches/arches) geospatial information system for cultural heritage inventory and management
+- [Revisiting kriging methods for microspatial data: an ethnographical approach](https://github.com/cl379/kriging/blob/master/OK/geoStats_OK.r) Codes for performing kriging for ethnographic and archaeological data.
 
 ## Stuff seen elsewhere
 
