@@ -17,6 +17,12 @@ The focus of this directory is not on the software _per se_, but rather on the f
 - [Arches](https://bitbucket.org/arches/arches) geospatial information system for cultural heritage inventory and management
 - [Revisiting kriging methods for microspatial data: an ethnographical approach](https://github.com/cl379/kriging/blob/master/OK/geoStats_OK.r) Codes for performing kriging for ethnographic and archaeological data.
 
+## Stuff seen at #saa2015
+
+(admittedly, from a Twitter perspective)
+
+- [SAA2015 session on Open Methods in Archaeology ](https://github.com/benmarwick/SAA2015-Open-Methods) ELECTRONIC SYMPOSIUM OPEN METHODS IN ARCHAEOLOGY: HOW TO ENCOURAGE REPRODUCIBLE RESEARCH AS THE DEFAULT PRACTICE (Sponsored by Digital Data Interest Group)
+
 ## Stuff seen elsewhere
 
 - [CRAN Task View for Archaeological Science](https://github.com/benmarwick/ctv-archaeology): An annotated list of packages for the R programming language that are useful for archaeology
