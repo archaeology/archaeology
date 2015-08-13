@@ -29,3 +29,4 @@ The focus of this directory is not on the software _per se_, but rather on the f
 - [zooaRch](https://github.com/cran/zooaRch): the CRAN zooaRch package, Analytical Tools for Zooarchaeological Data
 - [tipom](https://bitbucket.org/iosa/tipom): R package for typometry
 - [Archie](https://github.com/archiedb/archie) An open source digitial inventory system designed for field and lab use by archelogists. 
+- [Big Ancient Mediterranean](https://github.com/Big-Ancient-Mediterranean/BAM) A tool for the geospatial analysis, literary network visualization, and plot mapping of ancient texts. On-line at  https://bigancientmediterranean.wordpress.com/
