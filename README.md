@@ -31,3 +31,4 @@ The focus of this directory is not on the software _per se_, but rather on the f
 - [Archie](https://github.com/archiedb/archie) An open source digitial inventory system designed for field and lab use by archelogists.
 - [Big Ancient Mediterranean](https://github.com/Big-Ancient-Mediterranean/BAM) A tool for the geospatial analysis, literary network visualization, and plot mapping of ancient texts. On-line at  https://bigancientmediterranean.wordpress.com/
 - [field-photographs](https://github.com/anatolian/field-photographs): Android apps that ease photograph file management on archaeological projects. Mentionned in Roosevelt et al. [Excavation is Digitization: Advances in Archaeological Practice](https://dx.doi.org/10.1179/2042458215Y.0000000004)
+- [harris-matrix](https://github.com/tsdye/harris-matrix): *hm* is a Lisp package to write Graphviz dot files for archaeological sequence diagrams and Bayesian chronological models 
