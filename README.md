@@ -34,3 +34,7 @@ The focus of this directory is not on the software _per se_, but rather on the f
 - [harris-matrix](https://github.com/tsdye/harris-matrix): *hm* is a Lisp package to write Graphviz dot files for archaeological sequence diagrams and Bayesian chronological models 
 - [Chronomodel](https://github.com/Chronomodel/chronomodel): Chronological Modelling of Archaeological Data using Bayesian Statistics
 - [Archaeological Conferences](https://github.com/MartinHinz/archaeological_conferences): A calendar of archaeological conferences, looking for contributers
+- [roxcal](https://github.com/MartinHinz/roxcal): R package for the communication with Oxcal (currently working for Linux only)
+- [calibrator](https://github.com/ISAAKiel/calibrator): small linux command line calibration tool for 14C data
+- [ArchJobCAD](https://github.com/ISAAKiel/ArchJobCAD): Tasks for Excavations in AutoCAD
+- [mortAAR](https://github.com/ISAAKiel/mortAAR): R Package for the analysis of Archaeological Mortality Data (currently under development)
