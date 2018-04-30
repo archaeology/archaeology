@@ -38,3 +38,4 @@ The focus of this directory is not on the software _per se_, but rather on the f
 - [calibrator](https://github.com/ISAAKiel/calibrator): small linux command line calibration tool for 14C data
 - [ArchJobCAD](https://github.com/ISAAKiel/ArchJobCAD): Tasks for Excavations in AutoCAD
 - [mortAAR](https://github.com/ISAAKiel/mortAAR): R Package for the analysis of Archaeological Mortality Data (currently under development)
+- [AIS](https://github.com/andredebuisne/AIS) : complete Archaeological Information System (in development)
